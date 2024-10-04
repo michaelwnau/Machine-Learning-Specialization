@@ -11,7 +11,9 @@ unsupervised learning (clustering, dimensionality reduction, recommender systems
 and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)
 
 ##Supervised Machine Learning: Regression and Classification
+
 [Course](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+
 ###Week 1
 - Notebook 1
 - Notebook 2
