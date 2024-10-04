@@ -1,4 +1,4 @@
-#**Machine Learning Specialization**
+#Machine Learning Specialization
 ##SOE-YMLS
 ##Stanford School of Engineering
 [Specialization](https://online.stanford.edu/courses/soe-ymls-machine-learning-specialization)
@@ -12,15 +12,15 @@ and machine learning innovation (evaluating and tuning models, taking a data-cen
 
 ##Supervised Machine Learning: Regression and Classification
 [Course](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
-###**Week 1**
+###Week 1
 - Notebook 1
 - Notebook 2
 
-##**Week 2**
+##Week 2
 - Notebook 3
 - Notebook 4
 
-##**Week 3**
+##Week 3
 - Notebook 5
 - Notebook 6
 
