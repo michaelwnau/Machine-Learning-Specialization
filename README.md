@@ -5,6 +5,7 @@ SOE-YMLS
 Stanford School of Engineering
 
 [Specialization](https://online.stanford.edu/courses/soe-ymls-machine-learning-specialization)
+
 The Machine Learning Specialization is a foundational online program created in collaboration between Stanford Online and DeepLearning.AI. 
 This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications.
 
